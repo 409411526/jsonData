@@ -1,17 +1,17 @@
 [
     {
-    "day":"Mon",
+    "day":"1",
     "temp":"36.4"},
     {
-    "day":"Tue",
+    "day":"2",
     "temp":"36.3"},
     {
-    "day":"Wed",
+    "day":"3",
     "temp":"36.3"},
     {
-    "day":"Thu",
+    "day":"4",
     "temp":"36.0"},
     {
-    "day":"Fri",
+    "day":"5",
     "temp":"36.2"}
 ]
